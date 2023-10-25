@@ -10,7 +10,7 @@ $mailheader = "From:" .$name."<".$email.">\r\n";
 $recipient = "dcastillomar89@yahoo.com";
 
 mail($recipient, $subject, $message, $mailheader)
-or die("Error!");
+or die("Error! Please return back");
 
 echo"message sent";
 
