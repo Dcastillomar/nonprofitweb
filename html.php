@@ -32,7 +32,7 @@
     </aside>
     <article>
         <div class="container" id="bodyContainer">
-            <br> <img id="homeScreenImg" src="pexels-christina-morillo-1181263.jpg" alt="Codingevfoine logo">
+            <br> <img id="homeScreenImg" src="assets/pexels-christina-morillo-1181263.jpg" alt="Codingevfoine logo">
         </div>
     </article>
     <center>

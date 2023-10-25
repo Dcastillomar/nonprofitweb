@@ -31,7 +31,7 @@
         </p>
         <div class="container" id="computerContainer">
             <br>
-            <img id="computer" src="pexels-christina-morillo-1181373.jpg" alt="computer">
+            <img id="computer" src="assets/pexels-christina-morillo-1181373.jpg" alt="computer">
         </div>
     </div>
     <div>
@@ -47,13 +47,13 @@
         <div class="row" id="teamPic1">
             <br>
             <div class= "column">
-            <img id="team" src="pexels-pixabay-220453.jpg" alt="teamPic1" style="width:50%; height:75%"><figcaption>Jack Brown - Co-Founder</figcaption>
+            <img id="team" src="assets/pexels-pixabay-220453.jpg" alt="teamPic1" style="width:50%; height:75%"><figcaption>Jack Brown - Co-Founder</figcaption>
             </div>
             <div class= "column">
-            <img id="team" src="pexels-andrea-piacquadio-774909.jpg" alt="teamPic2" style="width:50%; height:75%"><figcaption>Jane Doe - Co-Founder</figcaption>
+            <img id="team" src="assets/pexels-andrea-piacquadio-774909.jpg" alt="teamPic2" style="width:50%; height:75%"><figcaption>Jane Doe - Co-Founder</figcaption>
             </div>
             <div class= "column">
-            <img id="team" src="pexels-creation-hill-1681010.jpg" alt="teamPic3" style="width:50%; height:75%"><figcaption>Thomas Kline - Co-Founder</figcaption>
+            <img id="team" src="assets/pexels-creation-hill-1681010.jpg" alt="teamPic3" style="width:50%; height:75%"><figcaption>Thomas Kline - Co-Founder</figcaption>
             </div>
         </div>
     </div>
